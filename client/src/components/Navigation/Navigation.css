@@ -1,0 +1,14 @@
+a{
+    text-decoration: none;
+}
+img {
+    height: 5em;
+    padding: 1%;
+}
+.NavMenu{
+    text-align: right;
+    padding-top: 1.5em;
+}
+.btn{
+    border-radius: 50px;
+}
