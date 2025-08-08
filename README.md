@@ -4,8 +4,6 @@
 
 It is a **full-stack mobile shopping web application** designed to offer a seamless buying and selling experience for mobile phones. Built using **React.js**, **Material‑UI**, **Node.js**, **Express.js**, and **MongoDB**, the app allows users to browse products, manage their accounts, and even list their own devices for sale.
 
----
-
 ## 🚀 Features
 
 - 🔐 User Signup & Login Authentication  
@@ -13,8 +11,6 @@ It is a **full-stack mobile shopping web application** designed to offer a seaml
 - 📦 Add to Cart & Purchase functionality  
 - 📤 Submit product details to sell your mobile  
 - 👤 User Dashboard with order & profile management  
-
----
 
 ## 🛠️ TechStack
 
@@ -24,8 +20,6 @@ It is a **full-stack mobile shopping web application** designed to offer a seaml
 | Backend       | Node.js, Express.js                 |
 | Database      | MongoDB                             |
 | Tooling       | Nodemon, npm                        |
-
----
 
 ## ⚙️ Getting Started
 
@@ -50,7 +44,6 @@ npm run server
 # 4. Start the React frontend
 npm start
 ```
----
 
 ## 🧭 Usage Guide
 
@@ -72,8 +65,10 @@ npm start
 6. **User Dashboard:**  
    View your profile, order history, or manage your listings from the personalized dashboard.
 
----
-
 ## 🖼️ Screenshots
 
 > *(Add image links/screenshots in your repo folder and reference them like below)*
+
+## 🌐 Live Site
+
+👉 [Shop Here](https://rid-28.github.io/Rock-Paper-Scissors-Game/)
