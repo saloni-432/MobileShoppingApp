@@ -1,7 +1,5 @@
 # Mobile Shopping Application
 
-## 📱 Overview
-
 It is a **full-stack mobile shopping web application** designed to offer a seamless buying and selling experience for mobile phones. Built using **React.js**, **Material‑UI**, **Node.js**, **Express.js**, and **MongoDB**, the app allows users to browse products, manage their accounts, and even list their own devices for sale.
 
 ## 🚀 Features
@@ -71,4 +69,4 @@ npm start
 
 ## 🌐 Live Site
 
-👉 [Shop Here](https://rid-28.github.io/Rock-Paper-Scissors-Game/)
+👉 [Shop Here](https://saloni-432.github.io/MobileShoppingApp/)
