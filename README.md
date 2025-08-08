@@ -69,4 +69,4 @@ npm start
 
 ## 🌐 Live Site
 
-👉 [Shop Here](https://saloni-432.github.io/MobileShoppingApp/)
+👉 [Shop Here]()
