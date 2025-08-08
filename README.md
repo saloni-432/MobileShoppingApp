@@ -1,4 +1,4 @@
-# Mobile Shopping Application
+# 📱Mobile Shopping Application
 
 It is a **full-stack mobile shopping web application** designed to offer a seamless buying and selling experience for mobile phones. Built using **React.js**, **Material‑UI**, **Node.js**, **Express.js**, and **MongoDB**, the app allows users to browse products, manage their accounts, and even list their own devices for sale.
 
