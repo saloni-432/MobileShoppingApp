@@ -1,27 +1,79 @@
-# MOBIWORLD
+# Mobile Shopping Application
 
-## Using Technology : REACT.JS, JAVASCRIPT, MATERIAL-UI, NODE.JS, EXPRESS.JS, MONGODB  
+## 📱 Overview
 
-## Process to work :
-### Download and install node.js, npm, mongodb and react
-### npm install -- To install all dependencies
-### npm start to start frontend
-### nodemon start -- To start server and connect mongodb
-### frontend run on port : 3000
-### backend run on port : 5000
+It is a **full-stack mobile shopping web application** designed to offer a seamless buying and selling experience for mobile phones. Built using **React.js**, **Material‑UI**, **Node.js**, **Express.js**, and **MongoDB**, the app allows users to browse products, manage their accounts, and even list their own devices for sale.
 
-## Screenshots :
-### Homepage
-![Screenshot (6)](https://user-images.githubusercontent.com/77229655/164453686-b9b36ac8-7694-4d8f-bfd4-32bd50ed883a.png)
-### Registration and Login page
-![Screenshot (10)](https://user-images.githubusercontent.com/77229655/164452789-39945146-6815-4925-9ba5-46bf86977fa9.png)
-### Mobile Categories
-![Screenshot (12)](https://user-images.githubusercontent.com/77229655/164454215-bff64cd5-f78d-4963-9006-8b1b5349481f.png)
-### Select Product 
-![Screenshot (11)](https://user-images.githubusercontent.com/77229655/164455061-2787addd-87dd-434f-949e-c1687cbda336.png)
-### Buy Product
-![Screenshot (16)](https://user-images.githubusercontent.com/77229655/164457165-d237e854-170a-4ce9-bc77-9c23af35261b.png)
-### My Profile
-![Screenshot (25)](https://user-images.githubusercontent.com/77229655/164455415-cb85109e-e126-44c9-8bec-493dbd267900.png)
-### Sell Phone Details
-![Screenshot (20)](https://user-images.githubusercontent.com/77229655/164455988-b1e963c2-10bc-4584-95f9-09d45010806a.png)
+---
+
+## 🚀 Features
+
+- 🔐 User Signup & Login Authentication  
+- 🛒 Browse products by category with search & filtering  
+- 📦 Add to Cart & Purchase functionality  
+- 📤 Submit product details to sell your mobile  
+- 👤 User Dashboard with order & profile management  
+
+---
+
+## 🛠️ TechStack
+
+| Layer         | Technologies                        |
+|---------------|-------------------------------------|
+| Frontend      | React.js, Material‑UI               |
+| Backend       | Node.js, Express.js                 |
+| Database      | MongoDB                             |
+| Tooling       | Nodemon, npm                        |
+
+---
+
+## ⚙️ Getting Started
+
+### ✅ Prerequisites
+
+- Node.js & npm installed  
+- MongoDB running locally or hosted (e.g., MongoDB Atlas)
+
+### 🔧 Installation Steps
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/saloni-432/MobileShoppingApp.git
+cd MobileShoppingApp
+
+# 2. Install dependencies
+npm install
+
+# 3. Start the backend server
+npm run server
+
+# 4. Start the React frontend
+npm start
+
+---
+
+## 🧭 Usage Guide
+
+1. **Visit the App:**  
+   Open `http://localhost:3000` in your browser after running both frontend and backend servers.
+
+2. **Sign Up or Log In:**  
+   Create a new account or log in with existing credentials.
+
+3. **Browse Products:**  
+   Explore a variety of mobile phones listed by sellers. You can search, filter by brand, or view individual product details.
+
+4. **Add to Cart & Purchase:**  
+   Click on a product to view more info and add it to your cart. Proceed to checkout to simulate a purchase.
+
+5. **Sell Your Product:**  
+   Use the “Sell” section to upload your mobile product details for listing.
+
+6. **User Dashboard:**  
+   View your profile, order history, or manage your listings from the personalized dashboard.
+
+---
+
+## 🖼️ Screenshots
+
+> *(Add image links/screenshots in your repo folder and reference them like below)*
