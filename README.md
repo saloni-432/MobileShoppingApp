@@ -49,7 +49,7 @@ npm run server
 
 # 4. Start the React frontend
 npm start
-
+```
 ---
 
 ## 🧭 Usage Guide
