@@ -63,10 +63,4 @@ npm start
 6. **User Dashboard:**  
    View your profile, order history, or manage your listings from the personalized dashboard.
 
-## 🖼️ Screenshots
 
-> *(Add image links/screenshots in your repo folder and reference them like below)*
-
-## 🌐 Live Site
-
-👉 [Shop Here]()
